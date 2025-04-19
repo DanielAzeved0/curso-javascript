@@ -1,0 +1,2 @@
+console.log('Meu nome é "Daniel". Estou aprendendo JavaScript às', 14, 'da tarde');
+//As virgulas no final das aspás simples sinaliza o final da variavel, ela é\s necessária para para que o código entenda e não de erro
